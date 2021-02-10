@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NJM78L33SU3
+D Positive 100mA Linear Regulator, Fixed Output 3.3V, SOT-89
+K Voltage Regulator 100mA Positive 3.3V
+$ENDCMP
+#
+$CMP Rotary_Encoder_Switch_LED
+D Rotary encoder, dual channel, incremental quadrate outputs, with switch
+K rotary switch encoder switch push button
+F ~
+$ENDCMP
+#
+$CMP STM32F303K8Tx
+D ARM Cortex-M4 MCU, 64KB flash, 12KB RAM, 72MHz, 2-3.6V, 25 GPIO, LQFP-32
+K ARM Cortex-M4 STM32F3 STM32F303
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00092070.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro_PowerOnly
+D USB Micro Type B connector
+K connector USB micro
+F ~
+$ENDCMP
+#
+#End Doc Library
